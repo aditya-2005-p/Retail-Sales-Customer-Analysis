@@ -1,4 +1,3 @@
-# Retail-Sales-Customer-Analysis
 # Retail Sales & Customer Analysis
 
 ## Project Overview
